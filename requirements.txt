@@ -1,0 +1,7 @@
+fastapi
+lxml
+numpy
+pydantic
+requests
+selenium==4.19.0
+uvicorn
